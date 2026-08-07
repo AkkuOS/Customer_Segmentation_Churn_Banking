@@ -1,0 +1,5 @@
+Dataset,Exited,Customers,Percentage
+Training,0,6370,79.62
+Training,1,1630,20.38
+Testing,0,1593,79.65
+Testing,1,407,20.35

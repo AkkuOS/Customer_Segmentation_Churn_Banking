@@ -1,0 +1,3 @@
+Column,Actual_Values,Unexpected_Values,Missing_Expected_Values,Validation_Passed
+Geography,"['France', 'Germany', 'Spain']",[],[],True
+Gender,"['Female', 'Male']",[],[],True

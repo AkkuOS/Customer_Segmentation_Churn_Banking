@@ -1,0 +1,8 @@
+Validation_Check,Result,Details
+Dataset loaded,True,Churn_Modelling.csv
+Dataset contains records,True,"10,000 records"
+Target column available,True,Exited
+Missing values,True,0 missing values
+Duplicate rows,True,0 duplicate rows
+Duplicate customer IDs,True,0 duplicate IDs
+Valid target encoding,True,"[0, 1]"

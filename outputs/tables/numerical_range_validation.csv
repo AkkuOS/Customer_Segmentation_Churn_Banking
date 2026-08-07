@@ -1,0 +1,7 @@
+Column,Observed_Minimum,Observed_Maximum,Below_Minimum_Count,Above_Maximum_Count,Validation_Passed
+CreditScore,350.0,850.0,0,0,True
+Age,18.0,92.0,0,0,True
+Tenure,0.0,10.0,0,0,True
+Balance,0.0,250898.09,0,0,True
+NumOfProducts,1.0,4.0,0,0,True
+EstimatedSalary,11.58,199992.48,0,0,True

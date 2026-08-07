@@ -1,0 +1,14 @@
+KPI,Value,Unit
+Total Customers,10000.0,Customers
+Retained Customers,7963.0,Customers
+Churned Customers,2037.0,Customers
+Overall Churn Rate,20.37,Percent
+Retention Rate,79.63,Percent
+Active Customers,5151.0,Customers
+Inactive Customers,4849.0,Customers
+Active Customer Rate,51.51,Percent
+Average Balance,76485.89,Currency
+Median Balance,97198.54,Currency
+Average Credit Score,650.53,Score
+Average Customer Age,38.92,Years
+Average Number of Products,1.53,Products

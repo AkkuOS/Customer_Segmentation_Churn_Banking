@@ -1,0 +1,26 @@
+{
+    "model_name": "SMOTE Gradient Boosting",
+    "classification_threshold": 0.56,
+    "threshold_selection_method": "Maximum validation F1-score",
+    "random_state": 42,
+    "feature_count": 17,
+    "feature_names": [
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "HasCrCard",
+        "IsActiveMember",
+        "EstimatedSalary",
+        "Geography_Germany",
+        "Geography_Spain",
+        "Gender_Male",
+        "BalanceSalaryRatio",
+        "ProductsPerYear",
+        "AgeTenureRatio",
+        "ActiveBalance",
+        "ProductEngagementScore",
+        "CustomerValueScore"
+    ]
+}

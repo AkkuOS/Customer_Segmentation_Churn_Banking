@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Retained,0.8766,0.968,0.92,1593.0
+Churned,0.7884,0.4668,0.5864,407.0
+accuracy,0.866,0.866,0.866,0.866
+macro avg,0.8325,0.7174,0.7532,2000.0
+weighted avg,0.8587,0.866,0.8522,2000.0

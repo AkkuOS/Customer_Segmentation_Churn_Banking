@@ -1,0 +1,6 @@
+BalanceSegment,Customers,Minimum_Balance,Maximum_Balance,Average_Balance,Percentage
+Zero Balance,3617,0.0,0.0,0.0,36.17
+Low Balance,1596,3768.69,100169.51,81901.67,15.96
+Medium Balance,1596,100194.44,119839.69,110269.28,15.96
+High Balance,1595,119852.01,139496.35,129148.73,15.95
+Premium Balance,1596,139528.23,250898.09,157996.13,15.96

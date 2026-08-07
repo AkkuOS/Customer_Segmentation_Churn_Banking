@@ -1,0 +1,3 @@
+BalanceStatus,Customers,Churned_Customers,Average_Age,Average_CreditScore,Average_Products,Active_Rate,Churn_Rate,Customer_Percentage
+Positive Balance,6383,1537,39.2,651.14,1.39,51.36,24.08,63.83
+Zero Balance,3617,500,38.43,649.45,1.78,51.78,13.82,36.17

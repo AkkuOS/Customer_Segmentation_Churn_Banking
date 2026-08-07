@@ -1,0 +1,9 @@
+NumOfProducts,Activity_Status,Customers,Churned_Customers,Churn_Rate
+1,Active,2563,485,18.92
+1,Inactive,2521,924,36.65
+2,Active,2446,136,5.56
+2,Inactive,2144,212,9.89
+3,Active,113,85,75.22
+3,Inactive,153,135,88.24
+4,Active,29,29,100.0
+4,Inactive,31,31,100.0

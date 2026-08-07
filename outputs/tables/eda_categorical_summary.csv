@@ -1,0 +1,6 @@
+Column,Unique_Values,Most_Common_Value,Most_Common_Count,Missing_Values
+Geography,3,France,5014,0
+Gender,2,Male,5457,0
+Credit_Card_Status,2,Has Credit Card,7055,0
+Activity_Status,2,Active,5151,0
+Churn_Status,2,Retained,7963,0

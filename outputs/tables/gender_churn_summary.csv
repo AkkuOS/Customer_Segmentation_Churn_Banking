@@ -1,0 +1,5 @@
+Gender,Churn_Status,Customers,Percentage
+Female,Churned,1139,25.07
+Female,Retained,3404,74.93
+Male,Churned,898,16.46
+Male,Retained,4559,83.54

@@ -1,0 +1,5 @@
+NumOfProducts,Customers,Churned_Customers,Average_Age,Average_Balance,Average_CreditScore,Average_Tenure,Average_Salary,Active_Rate,Churn_Rate
+1,5084,1409,39.67,98551.87,649.12,4.97,99487.26,50.41,27.71
+2,4590,348,37.75,51879.15,652.19,5.05,100452.01,53.29,7.58
+3,266,220,43.2,75458.33,648.11,5.0,104318.13,42.48,82.71
+4,60,60,45.68,93733.14,653.58,5.3,104763.72,48.33,100.0

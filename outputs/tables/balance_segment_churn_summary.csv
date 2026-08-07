@@ -1,0 +1,11 @@
+BalanceSegment,Churn_Status,Customers,Percentage
+Zero Balance,Churned,500,13.82
+Zero Balance,Retained,3117,86.18
+Low Balance,Churned,329,20.61
+Low Balance,Retained,1267,79.39
+Medium Balance,Churned,437,27.38
+Medium Balance,Retained,1159,72.62
+High Balance,Churned,404,25.33
+High Balance,Retained,1191,74.67
+Premium Balance,Churned,367,22.99
+Premium Balance,Retained,1229,77.01

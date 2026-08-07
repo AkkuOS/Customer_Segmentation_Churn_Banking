@@ -1,0 +1,6 @@
+BalanceSegment,Customers,Churned_Customers,Average_Age,Average_Balance,Average_CreditScore,Average_Products,Average_Salary,Active_Rate,Churn_Rate
+Zero Balance,3617,500,38.43,0.0,649.45,1.78,98983.56,51.78,13.82
+Low Balance,1596,329,39.2,81901.67,652.23,1.39,100600.13,52.44,20.61
+Medium Balance,1596,437,39.3,110269.28,652.01,1.39,100731.28,51.32,27.38
+High Balance,1595,404,39.44,129148.73,649.63,1.38,101222.84,50.78,25.33
+Premium Balance,1596,367,38.84,157996.13,650.67,1.39,100315.49,50.88,22.99

@@ -1,0 +1,8 @@
+NumOfProducts,Churn_Status,Customers,Percentage
+1,Churned,1409,27.71
+1,Retained,3675,72.29
+2,Churned,348,7.58
+2,Retained,4242,92.42
+3,Churned,220,82.71
+3,Retained,46,17.29
+4,Churned,60,100.0

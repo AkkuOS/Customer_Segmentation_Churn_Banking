@@ -1,0 +1,4 @@
+Column,Actual_Values,Invalid_Values,Validation_Passed
+HasCrCard,"[np.int64(0), np.int64(1)]",[],True
+IsActiveMember,"[np.int64(0), np.int64(1)]",[],True
+Exited,"[np.int64(0), np.int64(1)]",[],True

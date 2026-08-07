@@ -1,0 +1,3 @@
+Gender,Customers,Average_Age,Average_CreditScore,Average_Balance,Average_Tenure,Average_Salary,Active_Rate,Churn_Rate
+Female,4543,39.24,650.83,75659.37,4.97,100601.54,50.28,25.07
+Male,5457,38.66,650.28,77173.97,5.05,99664.58,52.54,16.46

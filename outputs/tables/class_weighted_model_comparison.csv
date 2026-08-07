@@ -1,0 +1,5 @@
+Model,Training_Strategy,Accuracy,Balanced_Accuracy,Precision_Churn,Recall_Churn,F1_Churn,ROC_AUC,PR_AUC,True_Negatives,False_Positives,False_Negatives,True_Positives
+Decision Tree,Class Weighted,0.7755,0.763,0.4675,0.742,0.5736,0.8362,0.6358,1249,344,105,302
+Extra Trees,Class Weighted,0.857,0.7072,0.743,0.4545,0.564,0.8456,0.6587,1529,64,222,185
+Random Forest,Class Weighted,0.8605,0.7048,0.7759,0.4423,0.5634,0.8482,0.6808,1541,52,227,180
+Logistic Regression,Class Weighted,0.7125,0.7098,0.3868,0.7052,0.4996,0.7764,0.4675,1138,455,120,287

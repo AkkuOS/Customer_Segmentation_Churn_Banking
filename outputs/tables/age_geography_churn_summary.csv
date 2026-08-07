@@ -1,0 +1,16 @@
+Geography,AgeGroup,Customers,Churned_Customers,Churn_Rate
+France,18-30,1038,51,4.91
+France,31-40,2311,220,9.52
+France,41-50,1067,300,28.12
+France,51-60,367,193,52.59
+France,60+,231,46,19.91
+Germany,18-30,453,56,12.36
+Germany,31-40,1022,214,20.94
+Germany,41-50,678,331,48.82
+Germany,51-60,243,169,69.55
+Germany,60+,113,44,38.94
+Spain,18-30,477,41,8.6
+Spain,31-40,1118,104,9.3
+Spain,41-50,575,157,27.3
+Spain,51-60,187,86,45.99
+Spain,60+,120,25,20.83

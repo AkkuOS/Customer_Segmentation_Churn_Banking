@@ -1,0 +1,15 @@
+Column,Data_Type,Non_Null_Count,Null_Count,Null_Percentage,Unique_Values
+Year,int64,10000,0,0.0,1
+CustomerId,int64,10000,0,0.0,10000
+Surname,object,10000,0,0.0,2932
+CreditScore,int64,10000,0,0.0,460
+Geography,object,10000,0,0.0,3
+Gender,object,10000,0,0.0,2
+Age,int64,10000,0,0.0,70
+Tenure,int64,10000,0,0.0,11
+Balance,float64,10000,0,0.0,6382
+NumOfProducts,int64,10000,0,0.0,4
+HasCrCard,int64,10000,0,0.0,2
+IsActiveMember,int64,10000,0,0.0,2
+EstimatedSalary,float64,10000,0,0.0,9999
+Exited,int64,10000,0,0.0,2

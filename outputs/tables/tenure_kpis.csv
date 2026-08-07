@@ -1,0 +1,5 @@
+TenureGroup,Customers,Average_Age,Average_Balance,Average_CreditScore,Average_Salary,Active_Rate,Churn_Rate
+New,2496,39.23,78053.98,651.03,99878.64,54.01,21.15
+Regular,3010,38.86,76070.91,650.85,99606.94,50.83,20.76
+Loyal,3020,38.55,75993.61,648.26,100525.67,51.42,18.87
+Long-Term,1474,39.28,75686.58,653.66,100543.38,48.85,21.3

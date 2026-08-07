@@ -1,0 +1,9 @@
+CreditScoreBand,Churn_Status,Customers,Percentage
+Poor,Churned,530,22.15
+Poor,Retained,1863,77.85
+Fair,Churned,683,20.39
+Fair,Retained,2667,79.61
+Good,Churned,451,18.82
+Good,Retained,1946,81.18
+Excellent,Churned,373,20.05
+Excellent,Retained,1487,79.95

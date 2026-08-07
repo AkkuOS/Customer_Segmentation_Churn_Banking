@@ -1,0 +1,9 @@
+Feature,Correlation_with_Churn,Absolute_Correlation
+Age,0.285,0.285
+IsActiveMember,-0.156,0.156
+Balance,0.119,0.119
+NumOfProducts,-0.048,0.048
+CreditScore,-0.027,0.027
+Tenure,-0.014,0.014
+EstimatedSalary,0.012,0.012
+HasCrCard,-0.007,0.007

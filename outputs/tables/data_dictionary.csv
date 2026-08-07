@@ -1,0 +1,14 @@
+Column,Description,Variable_Type
+CustomerId,Unique customer identifier,Identifier
+Surname,Customer surname,Text
+CreditScore,Customer creditworthiness score,Numerical
+Geography,"Customer country: France, Germany or Spain",Categorical
+Gender,Customer gender,Categorical
+Age,Customer age in years,Numerical
+Tenure,Number of years the customer has been with the bank,Numerical
+Balance,Customer account balance,Numerical
+NumOfProducts,Number of banking products used by the customer,Numerical
+HasCrCard,Indicates whether the customer owns a credit card,Binary
+IsActiveMember,Indicates whether the customer is an active bank member,Binary
+EstimatedSalary,Estimated annual salary of the customer,Numerical
+Exited,Churn target: 1 means exited and 0 means retained,Binary target

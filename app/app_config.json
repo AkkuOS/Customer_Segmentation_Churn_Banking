@@ -1,0 +1,40 @@
+{
+    "model_name": "SMOTE Gradient Boosting",
+    "classification_threshold": 0.56,
+    "risk_thresholds": {
+        "low_upper_bound": 0.3,
+        "medium_upper_bound": 0.56,
+        "high_upper_bound": 0.75
+    },
+    "continuous_features": [
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "EstimatedSalary",
+        "BalanceSalaryRatio",
+        "ProductsPerYear",
+        "AgeTenureRatio",
+        "ActiveBalance",
+        "CustomerValueScore"
+    ],
+    "model_feature_names": [
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "HasCrCard",
+        "IsActiveMember",
+        "EstimatedSalary",
+        "Geography_Germany",
+        "Geography_Spain",
+        "Gender_Male",
+        "BalanceSalaryRatio",
+        "ProductsPerYear",
+        "AgeTenureRatio",
+        "ActiveBalance",
+        "ProductEngagementScore",
+        "CustomerValueScore"
+    ]
+}

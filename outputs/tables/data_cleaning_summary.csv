@@ -1,0 +1,15 @@
+Cleaning_Step,Result
+Raw rows,10000
+Raw columns,14
+Removed Year,Yes
+Removed Surname,Yes
+Removed CustomerId from modelling dataset,Yes
+Standardised Geography and Gender,Completed
+Converted numerical fields,Completed
+Converted binary fields,Completed
+Missing values after cleaning,0
+Duplicate CustomerId values,0
+Final analytics rows,10000
+Final analytics columns,15
+Final clean rows,10000
+Final clean columns,14

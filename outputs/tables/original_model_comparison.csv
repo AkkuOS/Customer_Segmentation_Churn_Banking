@@ -1,0 +1,6 @@
+Model,Training_Strategy,Accuracy,Balanced_Accuracy,Precision_Churn,Recall_Churn,F1_Churn,ROC_AUC,PR_AUC,True_Negatives,False_Positives,False_Negatives,True_Positives
+Gradient Boosting,Original,0.866,0.7174,0.7884,0.4668,0.5864,0.8703,0.7163,1542,51,217,190
+Random Forest,Original,0.8625,0.7143,0.7683,0.4644,0.5789,0.849,0.6873,1536,57,218,189
+Decision Tree,Original,0.8535,0.6968,0.7395,0.4324,0.5457,0.8466,0.6471,1531,62,231,176
+Extra Trees,Original,0.856,0.7111,0.728,0.4668,0.5689,0.8431,0.6616,1522,71,217,190
+Logistic Regression,Original,0.8065,0.5758,0.5758,0.1867,0.282,0.7751,0.4807,1537,56,331,76

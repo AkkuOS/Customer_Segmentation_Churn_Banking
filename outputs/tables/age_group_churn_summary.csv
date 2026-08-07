@@ -1,0 +1,11 @@
+AgeGroup,Churn_Status,Customers,Percentage
+18-30,Churned,148,7.52
+18-30,Retained,1820,92.48
+31-40,Churned,538,12.09
+31-40,Retained,3913,87.91
+41-50,Churned,788,33.97
+41-50,Retained,1532,66.03
+51-60,Churned,448,56.21
+51-60,Retained,349,43.79
+60+,Churned,115,24.78
+60+,Retained,349,75.22

@@ -1,0 +1,9 @@
+TenureGroup,Churn_Status,Customers,Percentage
+New,Churned,528,21.15
+New,Retained,1968,78.85
+Regular,Churned,625,20.76
+Regular,Retained,2385,79.24
+Loyal,Churned,570,18.87
+Loyal,Retained,2450,81.13
+Long-Term,Churned,314,21.3
+Long-Term,Retained,1160,78.7
