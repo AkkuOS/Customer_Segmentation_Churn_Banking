@@ -34,7 +34,7 @@ The final application enables business users to understand customer behaviour, i
 
 🔗 **Streamlit App**
 
-> *(Add your Streamlit Cloud URL here after deployment)*
+https://customersegmentationchurnbanking-knxgjlffk7ebptfgwc6daf.streamlit.app/
 
 ---
 
