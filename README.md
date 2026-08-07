@@ -299,7 +299,7 @@ Generated
 # ▶ Installation
 
 ```bash
-git clone https://github.com/yourusername/Customer_Segmentation_Churn_Banking.git
+git clone https://github.com/AkkuOS/Customer_Segmentation_Churn_Banking
 
 cd Customer_Segmentation_Churn_Banking
 
